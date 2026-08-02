@@ -3,7 +3,7 @@
 # ⇄ Algorithm Visualizer
 
 **An interactive React app for visualizing algorithms step by step — built for a
-Design & Analysis of Algorithms (DAA) semester project.**
+Design & Analysis of Algorithms (DAA) **
 
 [![React](https://img.shields.io/badge/React-19-149ECA?logo=react&logoColor=white)](https://react.dev)
 [![Vite](https://img.shields.io/badge/Vite-8-646CFF?logo=vite&logoColor=white)](https://vitejs.dev)
@@ -168,5 +168,5 @@ details.
  
  ## Author
    
-   Abdul Samad
+   Abdul Samad khan
    
